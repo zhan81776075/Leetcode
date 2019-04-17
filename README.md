@@ -17,4 +17,4 @@ html中的题目为html格式，其中包括了题目内容和解法，大部分
 
   右键需要运行的cpp，点属性即可。
 
-![1555512119235](D:\git\Leetcode\readme_pic\1555512119235.png)
+![](https://github.com/zhan81776075/Leetcode/blob/master/readme_pic/1555512119235.png)
