@@ -1,4 +1,4 @@
-/*#include<vector>
+#include<vector>
 #include<iostream>
 #include<algorithm>
 #include<cmath>
@@ -35,4 +35,4 @@ int main()
 	std::vector<std::vector<int>> A = { {1, 1, 0 }, { 1, 0, 1 }, { 0, 0, 0 } };
 	A = flipAndInvertImage(A);
 	return 0;
-}*/
+}

@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 #include<algorithm>
 #include<vector>
 
@@ -50,4 +50,4 @@ int main()
 	for (auto it = A.begin(); it != A.end(); ++it)
 		std::cout << *it << ' ';
 	return 0;
-}*/
+}

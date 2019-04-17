@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 #include<string>
 #include<algorithm>
 
@@ -56,4 +56,4 @@ int main()
 	std::string moves = "UD";
 	bool a = judgeCircle(moves);
 	return 0;
-}*/
+}
