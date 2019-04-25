@@ -33,5 +33,17 @@
     <ClCompile Include="1002.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="476.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="500.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="950.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="890. Find and Replace Pattern.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
